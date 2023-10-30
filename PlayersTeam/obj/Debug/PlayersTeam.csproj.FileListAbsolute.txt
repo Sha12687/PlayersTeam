@@ -1,0 +1,7 @@
+C:\Users\shashant\source\repos\PlayersTeam\PlayersTeam\bin\Debug\PlayersTeam.exe.config
+C:\Users\shashant\source\repos\PlayersTeam\PlayersTeam\bin\Debug\PlayersTeam.exe
+C:\Users\shashant\source\repos\PlayersTeam\PlayersTeam\bin\Debug\PlayersTeam.pdb
+C:\Users\shashant\source\repos\PlayersTeam\PlayersTeam\obj\Debug\PlayersTeam.csproj.AssemblyReference.cache
+C:\Users\shashant\source\repos\PlayersTeam\PlayersTeam\obj\Debug\PlayersTeam.csproj.CoreCompileInputs.cache
+C:\Users\shashant\source\repos\PlayersTeam\PlayersTeam\obj\Debug\PlayersTeam.exe
+C:\Users\shashant\source\repos\PlayersTeam\PlayersTeam\obj\Debug\PlayersTeam.pdb
